@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="aaaa Table" max_length="40" name="sn_aaaa_table" type="collection"/>
+</database>
